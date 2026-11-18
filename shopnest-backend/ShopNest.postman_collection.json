@@ -7,7 +7,7 @@
   "variable": [
     {
       "key": "baseUrl",
-      "value": "http://localhost:5000"
+      "value": "https://shopnest-5jwr.onrender.com"
     },
     {
       "key": "token",
